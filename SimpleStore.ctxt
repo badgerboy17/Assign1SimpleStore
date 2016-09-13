@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=dollarAmount
+comment0.target=SimpleStore(int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ SimpleStore\n\ Create\ a\ SimpleStore\ who\ will\ keep\ track\ of\ money\ collected\n
+comment1.params=
+comment1.target=int\ getCost()
+comment1.text=\n\ Return\ the\ cost\ of\ an\ item\ at\ this\ store\n\ @return\ cost\ of\ an\ item\ from\ this\ store\n
+comment2.params=
+comment2.target=int\ getSoFar()
+comment2.text=\n\ Return\ the\ amount\ entered\ by\ the\ shopper\ so\ far\n\ \n\ @return\ \ \ \ the\ amount\ the\ shopper\ has\ gathered\ for\ payment\n
+comment3.params=
+comment3.target=int\ getSum()
+comment3.text=\n\ Return\ the\ sum\ needed\ to\ purchase\ all\ the\ shopper's\ items\n\ \n\ @return\ \ \ \ the\ sum\ of\ the\ shopper's\ purchases\n
+comment4.params=dollars
+comment4.target=void\ collectDollars(int)
+comment4.text=\n\ Collect\ money\ from\ shopper\n\ \n\ @param\ dollars\ \ \ money\ shopper\ gives\ SimpleStore\n
+comment5.params=
+comment5.target=void\ printReceipt()
+comment5.text=\n\ Print\ a\ receipt\ if\ enough\ money\ has\ been\ collected\n
+comment6.params=
+comment6.target=void\ refundExtra()
+comment6.text=\n\ Print\ amount\ overpaid\n
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+comment7.text=\n\ main()\ method\n\ \n\ Creates\ a\ SimpleStore\ object,\ and\ tests\ each\ of\ this\ class's\n\ methods\ on\ it.\n
+numComments=8
